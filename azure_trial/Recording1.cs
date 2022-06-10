@@ -87,6 +87,8 @@ namespace azure_trial
                               repo.RxMainFrame.BtnSubmitUserName.Click();
                               Delay.Milliseconds(0);
                               
+                              Report.Log(ReportLevel.Info, "User", "Done", new RecordItemIndex(2));
+                              
                     }
 
 #region Image Feature Data

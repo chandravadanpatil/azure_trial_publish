@@ -906,6 +906,18 @@ mode="Global">
 				</robustPath>
 			</info>
 		</mouseitem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Done"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="e4014ba5-0405-48cf-9179-55a477564608">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="952e56e2-75db-45a6-af58-a52afa3aa1c3"
