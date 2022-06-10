@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="azure_trial"
+      id="ef04ad69-ed64-47d6-802c-1c9fb28269cf"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="azure_trial"
+      id="ef04ad69-ed64-47d6-802c-1c9fb28269cf"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
